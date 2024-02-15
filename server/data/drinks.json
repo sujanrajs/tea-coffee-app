@@ -1,0 +1,20 @@
+[
+  {
+    "id": "26e21e2f-c049-4d68-950e-6552cc11b1b6",
+    "name": "Green Tea",
+    "weight": 1500,
+    "roastLevel": 1
+  },
+  {
+    "id": "4200442a-c041-4221-9ca5-eeb0acd63657",
+    "name": "Coffee Arabica",
+    "weight": 300,
+    "roastLevel": 3
+  },
+  {
+    "id": "62de71cb-1647-4cc5-ba95-584b49818a67",
+    "name": "Early Grey Tea",
+    "weight": 50,
+    "roastLevel": 3
+  }
+]

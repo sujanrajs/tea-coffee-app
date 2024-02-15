@@ -1,0 +1,24 @@
+.table-list-wrapper {
+	display: flex;
+	justify-content: center;
+	.table {
+		width: 600px;
+		border-collapse: collapse;
+	}
+	.table th,
+	.table td {
+		padding: 8px;
+		border: 1px solid #f7f0f0;
+	}
+	.table th {
+		background-color: #f4f4f4;
+		font-weight: bold;
+		text-align: left;
+	}
+	.table tbody tr:nth-child(even) {
+		background-color: #f8f9fa;
+	}
+	.table tbody tr:nth-child(odd) {
+		background-color: #ffffff;
+	}
+}
