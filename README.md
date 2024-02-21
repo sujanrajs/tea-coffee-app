@@ -1,5 +1,7 @@
 # Tea and Coffee Listing App
 
+Project Deployed in Netlify : Click the link to proceed: https://sujanrajs-tea-coffee.netlify.app/
+
 ## Project description:
 
 "You can save and list your favourite coffee and tea flavors"

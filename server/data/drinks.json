@@ -16,5 +16,11 @@
     "name": "Early Grey Tea",
     "weight": 50,
     "roastLevel": 3
+  },
+  {
+    "id": "9fe798c6-1c8f-467a-9fa6-7bea1668184d",
+    "name": "Finnish Coffee",
+    "weight": 2300,
+    "roastLevel": 3
   }
 ]
